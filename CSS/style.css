@@ -9,6 +9,7 @@
     --main-padding: 60px;
 }
 /* End Variables */
+
 /* Strat Global Rules */
 * {
     -webkit-box-sizing: border-box;
@@ -45,6 +46,7 @@ body {
     font-weight: 700;
 }
 /* End Global Rules */
+
 /* Start Landing */
 .landing {
     height: auto;
@@ -62,6 +64,8 @@ body {
     background-color: rgba(0, 0, 0, 0.6);
     z-index: 1;
 }
+/* End Landing */
+
 /* Start Navbar */
 .navbar {
     background-color: var(--second-color);
@@ -132,7 +136,7 @@ body {
     }
 }
 /* End Navbar */
-/* End Landing */
+
 /* Start About */
 .about {
     padding-top: var(--main-padding);
@@ -184,6 +188,7 @@ body {
     margin-left: 60px;
 }
 /* End About */
+
 /* Start Services */
 .services {
     padding-top: var(--main-padding);
@@ -225,7 +230,7 @@ body {
     font-size: 14px;
 }
 /* End Services */
-/* End Action */
+
 /* Start Cta */
 .cta {
     background: url("../Images/cta-bg.jpg");
@@ -261,6 +266,7 @@ body {
     color: #151515;
 }
 /* End Cta */
+
 /* Start Portfolio */
 .portfolio {
     padding-top: var(--main-padding);
@@ -353,6 +359,7 @@ body {
     font-size: 14px;
 }
 /* End Portfolio */
+
 /* Start Testimonials */
 .testimonials {
     margin-top: 50px;
@@ -409,6 +416,7 @@ body {
     margin-bottom: -7px;
 }
 /* End Testimonials */
+
 /* Strat Team */
 .team {
     padding-top: var(--main-padding);
@@ -459,6 +467,7 @@ body {
     color: #aaaaaa;
 }
 /* End Team */
+
 /* Start Contact */
 .contact {
     padding-top: var(--main-padding);
@@ -511,6 +520,7 @@ body {
     border-radius: 3px;
 }
 /* End Contact */
+
 /* Start Footer */
 .footer {
     padding: 60px 0px 30px;
@@ -579,6 +589,7 @@ body {
     border-bottom-right-radius: 3px;
 }
 /* End Footer */
+
 /* Start Post Footer */
 .post-footer {
     background-color: black;
